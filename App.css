@@ -1,0 +1,16 @@
+.App {
+  text-align: left;
+  box-sizing: border-box;
+  margin-left: 100px;
+  margin-top: 100px;
+  margin-right: 100px;
+}
+
+.Header {
+  background-color: thistle;
+}
+
+main {
+  background-color: yellowgreen;
+}
+
